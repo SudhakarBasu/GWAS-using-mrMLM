@@ -112,28 +112,5 @@ The mrMLM package implements six multi-locus GWAS methods:
 - Wang, S. B., et al. (2016). Improving power and accuracy of genome-wide association studies via a multi-locus mixed linear model methodology. *Scientific Reports*, 6, 19444.
 - Zhang, J., et al. (2020). mrMLM v4.0: An R platform for multi-locus genome-wide association studies. *Genomics, Proteomics & Bioinformatics*, 18(4), 481-487.
 
-## 📝 Citation
-
-If you use this pipeline in your research, please cite:
-
-```
-Basu, S. (2026). GWAS Analysis Using mrMLM. 
-GitHub repository: https://github.com/SudhakarBasu/GWAS-using-mrMLM
-```
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/SudhakarBasu/GWAS-using-mrMLM/issues).
-
-## 📧 Contact
-
-**Sudhakar Basu**
-- GitHub: [@SudhakarBasu](https://github.com/SudhakarBasu)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ⭐ **Star this repository** if you find it helpful!
